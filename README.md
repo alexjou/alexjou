@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Álex Joubert. <img src="https://github.com/alexjou/meu-portfolio/blob/master/src/Components/img/Hi.gif" width="25"></h2>
+<h1> Hey there! I'm Álex Joubert. <img src="https://github.com/alexjou/meu-portfolio/blob/master/src/Components/img/Hi.gif" width="25"></h1>
 <img align="right" alt="GIF" src="https://github.com/alexjou/meu-portfolio/blob/master/src/Components/img/me.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -7,8 +7,22 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; I graduated in Systems Analysis and Development.
 - 💼 &nbsp; Mobile developer and front-end web developer.
-- 
-<h3>🛠 Tech Stack</h3>
+<br/>
+<br/>
+<br/>
+<p align="center">
+      <a href="https://alexjou.github.io/meu-portfolio/">
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <img src="https://github.com/alexjou/meu-portfolio/blob/master/src/Components/img/globe.gif?raw=true" />
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <br>
+        <strong>Visit my personal website </strong>
+      </a>
+  </p>
+<br/>
+<h2 align="center">🛠 Tech Stacks</h2>
 
 <table align="center">
   <tbody>
@@ -86,3 +100,7 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
