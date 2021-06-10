@@ -68,7 +68,7 @@
         <img height="64px" src="https://alexjou.github.io/meu-portfolio/static/media/React.80045de7.png">
       </td>
       <td width="25%" align="center">
-        <span>𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲</span><br>
+        <span>𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲</span><br><br>
         <img height="64px" src="https://alexjou.github.io/meu-portfolio/static/media/React.80045de7.png">
       </td>
       <td width="25%" align="center">
