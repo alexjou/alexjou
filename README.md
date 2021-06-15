@@ -112,7 +112,7 @@
              </a>
       </td>
       <td width="25%" align="center">
-        <span>𝗥𝘂𝗯𝘆 𝗼𝗻 𝗥𝗮𝗶𝗹𝘀</span><br>
+        <span>𝗥𝘂𝗯𝘆 𝗼𝗻 𝗥𝗮𝗶𝗹𝘀</span><br><br>
             <a href="https://rubyonrails.org/" title="Ruby On Rails">
                   <img height="64px" src="https://alexjou.github.io/meu-portfolio/static/media/rails.098cc1b5.png">
             </a>
