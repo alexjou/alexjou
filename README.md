@@ -47,7 +47,7 @@
       </td>
       <td width="25%" align="center">
         <span>𝗔𝗻𝗴𝘂𝗹𝗮𝗿</span><br><br>
-            <a href="https://angular.io/" title="CSS3">
+            <a href="https://angular.io/" title="Angular">
                   <img height="64px" src="https://github.com/alexjou/meu-portfolio/blob/master/src/Components/img/angular2.png?raw=true">
             </a>
       </td>           
@@ -55,7 +55,7 @@
     <tr valign="top">
       <td width="25%" align="center">            
         <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
-            <a>
+            <a href="https://getbootstrap.com/" title="Bootstrap">
                   <img height="64px" src="https://github.com/alexjou/meu-portfolio/blob/master/src/Components/img/Boostrap.png?raw=true">
             </a>
       </td>
